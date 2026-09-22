@@ -124,12 +124,15 @@ When the remote Odoo request fails, the application can fall back to locally cac
 
 <tr>
 
-<td><img width="1080" height="2400" alt="WhatsApp Image 2026-05-01 at 4 02 23 PM" src="https://github.com/user-attachments/assets/855e7a8e-3b3e-44ab-99aa-d2edf19fbb8e" /></td>
 
-<td><img width="1125" height="2436" alt="Login" src="https://github.com/user-attachments/assets/5991e636-1661-4577-bb73-d2e723120291" />
-m/user-attachments/assets/99ef4d1e-d274-4484-aa6a-980d1220a835" /></td>
-<td><img width="1125" height="2436" alt="Login (Email error)" src="https://github.com/user-attachments/assets/14d5c905-cf29-4ac9-8e6f-f28bbdb18336" /></td>
-<td><img width="1125" height="2436" alt="Login (1)" src="https://github.co<img width="1280" height="2856" alt="Screenshot_20260923_004535" 
+
+<td><img width="1125" height="2436" alt="Login" src="https://github.com/user-attachments/assets/5991e636-1661-4577-bb73-d2e723120291" /></td>
+<td><img width="1280" height="2856" alt="Sales Orders" src="https://github.com/user-attachments/assets/f7b901be-d698-4656-bb63-894243b7ab4b" /></td>
+<td><img width="1280" height="2856" alt="Sales Orders Inform" src="https://github.com/user-attachments/assets/be945b4c-a69d-4fd2-90a4-2304af9ff2f8" /></td>
+<td><img width="1280" height="2856" alt="Sales Orders Inform" src="https://github.com/user-attachments/assets/9884dfd4-68dc-4846-bc09-28470c1009d3" /></td>
+
+
+
 </tr>
 </table>
 # 🏗️ Architecture
