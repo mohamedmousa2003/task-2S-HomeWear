@@ -123,9 +123,9 @@ When the remote Odoo request fails, the application can fall back to locally cac
 <table>
 
 <td><img width="1125" height="2436" alt="Login" src="https://github.com/user-attachments/assets/5991e636-1661-4577-bb73-d2e723120291" /></td>
-<tr><img width="1280" height="2856" alt="Customer List " src="https://github.com/user-attachments/assets/30850a18-1d58-43ab-a56e-135146e25037" /></td>
-<tr><img width="1280" height="2856" alt="Search" src="https://github.com/user-attachments/assets/a50a2036-03d4-488a-88d0-b7c55aa7ea7f" /></td>
-<tr><img width="1280" height="2856" alt="Update Phone" src="https://github.com/user-attachments/assets/f78d1dcb-31fb-4526-bc42-0b6ebdf7f9d3" /></td>
+<td><img width="1280" height="2856" alt="Customer List " src="https://github.com/user-attachments/assets/30850a18-1d58-43ab-a56e-135146e25037" /></td>
+<td><img width="1280" height="2856" alt="Search" src="https://github.com/user-attachments/assets/a50a2036-03d4-488a-88d0-b7c55aa7ea7f" /></td>
+<td><img width="1280" height="2856" alt="Update Phone" src="https://github.com/user-attachments/assets/f78d1dcb-31fb-4526-bc42-0b6ebdf7f9d3" /></td>
 
 
 </tr>
