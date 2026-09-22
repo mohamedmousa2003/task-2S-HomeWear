@@ -122,10 +122,6 @@ When the remote Odoo request fails, the application can fall back to locally cac
 ---
 <table>
 
-<tr>
-
-
-
 <td><img width="1125" height="2436" alt="Login" src="https://github.com/user-attachments/assets/5991e636-1661-4577-bb73-d2e723120291" /></td>
 <tr><img width="1280" height="2856" alt="Customer List " src="https://github.com/user-attachments/assets/30850a18-1d58-43ab-a56e-135146e25037" /></td>
 <tr><img width="1280" height="2856" alt="Search" src="https://github.com/user-attachments/assets/a50a2036-03d4-488a-88d0-b7c55aa7ea7f" /></td>
@@ -134,17 +130,13 @@ When the remote Odoo request fails, the application can fall back to locally cac
 
 </tr>
 </table>
+
 <table>
-
-
-
 
 <td><img width="1125" height="2436" alt="Login" src="https://github.com/user-attachments/assets/5991e636-1661-4577-bb73-d2e723120291" /></td>
 <td><img width="1280" height="2856" alt="Sales Orders" src="https://github.com/user-attachments/assets/f7b901be-d698-4656-bb63-894243b7ab4b" /></td>
 <td><img width="1280" height="2856" alt="Sales Orders Inform" src="https://github.com/user-attachments/assets/be945b4c-a69d-4fd2-90a4-2304af9ff2f8" /></td>
 <td><img width="1280" height="2856" alt="Sales Orders Inform" src="https://github.com/user-attachments/assets/9884dfd4-68dc-4846-bc09-28470c1009d3" /></td>
-
-
 
 </tr>
 </table>
